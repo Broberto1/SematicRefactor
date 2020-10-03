@@ -1,1 +1,1 @@
-# SematicRefactor
+ i hope this little description defines what i was trying to do with the homework. I changed most of the "<div>" tags to figure tags seeing that was the main source of clutter that i could see. I also did some other minor changes to make the code easier to read. 
